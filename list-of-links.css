@@ -1,0 +1,21 @@
+ul{
+  font-size: 3em;
+}
+#secure{
+  color: purple;
+}
+#insecure{
+  color: blue;
+}
+#org {
+  text-transform: uppercase;
+}
+.link2{
+  font-style: italic;
+}
+.last2{
+  font-weight: bold;
+}
+.panda{
+  background-color: #6495ed;
+}
